@@ -1,0 +1,150 @@
+{
+  "context_files": [],
+  "context_additions": [],
+  "staged_changes": {},
+  "pending_reviews": [],
+  "history": [
+    {
+      "time": "19:42:46",
+      "action": "get-context "
+    },
+    {
+      "time": "19:42:54",
+      "action": "staged write scripts/validate.sh"
+    },
+    {
+      "time": "19:47:28",
+      "action": "folder-to-txt Mechatronics -> Mechatronics_bundle.txt"
+    },
+    {
+      "time": "19:47:40",
+      "action": "get-context "
+    },
+    {
+      "time": "19:59:24",
+      "action": "staged write milestones/01_signals_actuators_dynamics.md"
+    },
+    {
+      "time": "19:59:24",
+      "action": "staged write milestones/01_signals_actuators_dynamics.md"
+    },
+    {
+      "time": "19:59:25",
+      "action": "staged write milestones/01_signals_actuators_dynamics.md"
+    },
+    {
+      "time": "19:59:25",
+      "action": "staged write milestones/01_signals_actuators_dynamics.md"
+    },
+    {
+      "time": "19:59:25",
+      "action": "staged write milestones/01_signals_actuators_dynamics.md"
+    },
+    {
+      "time": "19:59:26",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:26",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:26",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:27",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:27",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:28",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:28",
+      "action": "staged write milestones/02_embedded_realtime_control.md"
+    },
+    {
+      "time": "19:59:29",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:29",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:30",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:30",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:30",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:31",
+      "action": "staged write milestones/03_mech_pcb_verification.md"
+    },
+    {
+      "time": "19:59:31",
+      "action": "staged write milestones/04_capstone_integration.md"
+    },
+    {
+      "time": "19:59:32",
+      "action": "staged write milestones/04_capstone_integration.md"
+    },
+    {
+      "time": "19:59:32",
+      "action": "staged write milestones/04_capstone_integration.md"
+    },
+    {
+      "time": "19:59:33",
+      "action": "staged write milestones/04_capstone_integration.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/00_foundations.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/00_foundations.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/00_foundations.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/00_foundations.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/05_portfolio_delivery.md"
+    },
+    {
+      "time": "19:59:35",
+      "action": "staged write milestones/05_portfolio_delivery.md"
+    },
+    {
+      "time": "20:02:37",
+      "action": "folder-to-txt Mechatronics -> Mechatronics_bundle.txt"
+    },
+    {
+      "time": "16:34:46",
+      "action": "folder-to-txt Mechatronics -> Mechatronics_bundle.txt"
+    },
+    {
+      "time": "21:52:45",
+      "action": "folder-to-txt Mechatronics -> Mechatronics_bundle.txt"
+    }
+  ],
+  "last_message": "",
+  "workspace_root": "C:\\Users\\Kohaku\\Documents\\Obsidian\\Mechatronics"
+}

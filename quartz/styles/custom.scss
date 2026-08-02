@@ -1,3 +1,36 @@
 @use "./variables.scss" as *;
+/* quartz/styles/custom.scss — loaded after Quartz's base styles */
 
-// put your custom CSS here!
+/* ── Bigger, more comfortable type (Quartz default is small) ── */
+:root { font-size: 17.5px; }
+
+article {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+/* ── Tables: readable, and scroll sideways on phones instead of breaking ── */
+article table {
+  display: block;          /* lets wide tables scroll horizontally */
+  overflow-x: auto;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  margin: 1.5rem 0;
+}
+article table th,
+article table td {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--lightgray, #d4d4d4);
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.5;
+}
+article table th {
+  font-weight: 600;
+  background: var(--light, #faf8f8);
+  white-space: nowrap;       /* keeps header cells from wrapping ugly */
+}
+article table tr:nth-child(even) td {
+  background: rgba(125, 125, 125, 0.06);   /* zebra striping */
+}
